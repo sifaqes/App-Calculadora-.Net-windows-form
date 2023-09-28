@@ -15,6 +15,9 @@ namespace Entornos_escritorio_practica1
     {
         public calcoladora()
         {
+
+
+
             InitializeComponent();
             initializacion_calcoladora();
 
